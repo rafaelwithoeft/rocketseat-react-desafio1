@@ -1,6 +1,6 @@
-## First Module
+## RocketBook
 
-First Module is a project from RocketSeat Bootcamp.
+RocketBook is the first challenge from RocketSeat Bootcamp (React module).
 
 ### TL;DR
 To get started developing right away:
