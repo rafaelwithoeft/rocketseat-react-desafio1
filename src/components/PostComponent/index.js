@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-import PostHeaderComponent from './PostHeaderComponent';
+import PostHeaderComponent from '../PostHeaderComponent';
 
 const PostComponent = ({ posts }) => posts.map(val => (
   <div className="post-item" key={val.id}>

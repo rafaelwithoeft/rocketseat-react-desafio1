@@ -2,7 +2,7 @@ import React, { Fragment } from 'react';
 import { render } from 'react-dom';
 
 import HeaderComponent from './components/HeaderComponent';
-import PostComponent from './components/Post/PostComponent';
+import PostComponent from './components/PostComponent';
 
 import './styles.scss';
 
