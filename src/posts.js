@@ -1,7 +1,9 @@
+import avatar from './assets/user.png';
+
 export const posts = [
   {
     id: 1,
-    avatar: './assets/images/user.png',
+    avatar,
     profile: 'Rafael',
     date: new Date('2019-05-06 20:30'),
     content:
@@ -9,7 +11,7 @@ export const posts = [
   },
   {
     id: 2,
-    avatar: './assets/images/user.png',
+    avatar,
     profile: 'Maria',
     date: new Date('2019-05-06 20:30'),
     content:
@@ -17,7 +19,7 @@ export const posts = [
   },
   {
     id: 3,
-    avatar: './assets/images/user.png',
+    avatar,
     profile: 'José',
     date: new Date('2019-05-04 15:30'),
     content:
